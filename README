@@ -1,10 +1,9 @@
-记录一下个人的码农生活
 DEMO
 ===========================
 
 ###########环境依赖
 node v0.10.28+
-redIs ~
+reids ~
 
 ###########部署步骤
 1. 添加系统环境变量
@@ -42,7 +41,7 @@ redIs ~
 ├── app-service.js              // 启动应用配置
 ├── static                      // web静态资源加载
 │   └── initjson
-│       └── config.js         // 提供给前端的配置
+│       └── config.js       // 提供给前端的配置
 ├── test
 ├── test-service.js
 └── tools
@@ -50,7 +49,7 @@ redIs ~
 
 
 ###########V1.0.0 版本内容更新
-1. 新功能     aaaaaaaaa
-2. 新功能     bbbbbbbbb
-3. 新功能     ccccccccc
-4. 新功能     ddddddddd
+1. 新功能   aaaaaaaaa
+2. 新功能   bbbbbbbbb
+3. 新功能   ccccccccc
+4. 新功能   ddddddddd
